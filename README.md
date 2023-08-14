@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shauvik Paul</h1>
 <h3 align="center">I am Crafting Code and Melodies: Blending Passion in Every Line</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulshauvik99&label=Profile%20views&color=0e75b6&style=flat" alt="paulshauvik99" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shauvikp" target="blank"><img src="https://img.shields.io/twitter/follow/shauvikp?logo=twitter&style=for-the-badge" alt="shauvikp" /></a> </p>
 
