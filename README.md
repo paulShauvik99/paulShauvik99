@@ -10,15 +10,14 @@ Currently exploring cloud technologies, clean architecture, and scalable backend
 **Languages & Frameworks**: JavaScript, TypeScript, React, Node.js, Express, Flutter, Dart  
 **Databases**: MongoDB, MySQL  
 **ORM & Tools**: Prisma, WebSockets, Git, REST APIs  
-**Styling**: Tailwind CSS, Bootstrap  
-**Cloud & Infra**: Basic knowledge of cloud services (Firebase, AWS)
+**Styling**: Tailwind CSS, Bootstrap, SCSS/SASS  
+**Cloud & Infra**: Basic knowledge of cloud services (Firebase, AWS, Cloudflare)
 
 ## Contact
 
 - 📧 Email: paul99shauvik108@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shauvik-paul-02b905160/)  
-- 📷 [Instagram](https://www.instagram.com/paul_shauvik.20/)
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shauvik-paul-02b905160/)
+  
 ---
 
 Thanks for stopping by!
